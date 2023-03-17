@@ -10,5 +10,5 @@ The stretch features will help develop this app into something closer to the NY 
 
 - [x] View elements are styled in the .xml files
 
-<img src="nytimesbestseller.gif" />
+<img src="articlesearch.gif" />
 
